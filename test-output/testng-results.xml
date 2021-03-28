@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10308" started-at="2021-03-22T23:45:21 GMT" finished-at="2021-03-22T23:45:31 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10308" started-at="2021-03-22T23:45:21 GMT" finished-at="2021-03-22T23:45:31 GMT">
+      <class name="allQuestions.Part11_dropdown">
+        <test-method status="PASS" signature="setup()[pri:0, instance:allQuestions.Part11_dropdown@64f6106c]" name="setup" is-config="true" duration-ms="4886" started-at="2021-03-22T23:45:21 GMT" finished-at="2021-03-22T23:45:26 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Dropdown()[pri:0, instance:allQuestions.Part11_dropdown@64f6106c]" name="Dropdown" duration-ms="5358" started-at="2021-03-22T23:45:26 GMT" finished-at="2021-03-22T23:45:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdown -->
+      </class> <!-- allQuestions.Part11_dropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mysuits]">
+  <test thread-count="5" name="mytests(failed)">
+    <classes>
+      <class name="day30.OpenCartProductSelection">
+        <methods>
+          <include name="cart"/>
+          <include name="lagout"/>
+          <include name="validation"/>
+          <include name="productSelection"/>
+          <include name="selected_productname"/>
+        </methods>
+      </class> <!-- day30.OpenCartProductSelection -->
+      <class name="day30.OpencartLogin">
+        <methods>
+          <include name="validation"/>
+          <include name="returningcustomer"/>
+          <include name="getUrl"/>
+        </methods>
+      </class> <!-- day30.OpencartLogin -->
+    </classes>
+  </test> <!-- mytests(failed) -->
+</suite> <!-- Failed suite [mysuits] -->

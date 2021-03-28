@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mysuits">
+      <test name="mytests">
+              <classes>
+                     <class name="day30.OpencartLogin" />
+                      <class name="day30.OpenCartProductSelection" />
+                        </classes>
+                    </test> 
+          </suite>
